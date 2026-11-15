@@ -1,0 +1,4 @@
+﻿bicycle car bicycle
+A BICYCLE is useful.
+The bicycles are parked.
+bicycle!
